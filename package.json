@@ -1,0 +1,19 @@
+{
+  "name": "ffmpeg-webm-mp4",
+  "version": "1.0.0",
+  "description": "Simple ffmpeg process",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "ffmpeg"
+  ],
+  "author": "Çağatay Çalı",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.4.2",
+    "request": "^2.72.0",
+    "utils": "^0.3.1"
+  }
+}
